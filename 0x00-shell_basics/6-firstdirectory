@@ -1,9 +1,2 @@
 #!/bin/bash
-
-# create the directory if it doesn't exist
-if [ ! -d "/tmp/my_first_directory" ]; then
-    mkdir /tmp/my_first_directory
-    echo "Directory /tmp/my_first_directory created successfully."
-else
-    echo "Directory /tmp/my_first
-
+mkdir /tmp/my_first_directory/
